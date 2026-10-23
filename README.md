@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarCasasola
-- 👀 I’m interested in music and backend
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in music and DevSecOps 
+- 🌱 I’m a Golang Lover
 - 📫 How to reach me [...](https://www.linkedin.com/in/omar-antonio-casasola-ventura-902a88299/)
 
 <!---
